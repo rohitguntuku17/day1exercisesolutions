@@ -1,0 +1,7 @@
+M:\visual project files\day1factorial\day1factorial\bin\Debug\day1factorial.exe.config
+M:\visual project files\day1factorial\day1factorial\bin\Debug\day1factorial.exe
+M:\visual project files\day1factorial\day1factorial\bin\Debug\day1factorial.pdb
+M:\visual project files\day1factorial\day1factorial\obj\Debug\day1factorial.csprojAssemblyReference.cache
+M:\visual project files\day1factorial\day1factorial\obj\Debug\day1factorial.csproj.CoreCompileInputs.cache
+M:\visual project files\day1factorial\day1factorial\obj\Debug\day1factorial.exe
+M:\visual project files\day1factorial\day1factorial\obj\Debug\day1factorial.pdb

@@ -1,0 +1,2 @@
+M:\visual project files\day1largestofthreenumbers\day1largestofthreenumbers\obj\Debug\day1largestofthreenumbers.csprojAssemblyReference.cache
+M:\visual project files\day1largestofthreenumbers\day1largestofthreenumbers\obj\Debug\day1largestofthreenumbers.csproj.CoreCompileInputs.cache

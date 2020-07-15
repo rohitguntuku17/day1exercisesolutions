@@ -1,0 +1,7 @@
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\obj\Debug\1 dayclass 1 problem.csprojAssemblyReference.cache
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\obj\Debug\1 dayclass 1 problem.csproj.CoreCompileInputs.cache
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\bin\Debug\1 dayclass 1 problem.exe.config
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\bin\Debug\1 dayclass 1 problem.exe
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\bin\Debug\1 dayclass 1 problem.pdb
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\obj\Debug\1 dayclass 1 problem.exe
+M:\visual project files\1 dayclass 1 problem\1 dayclass 1 problem\obj\Debug\1 dayclass 1 problem.pdb

@@ -1,0 +1,7 @@
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\bin\Debug\day1swappingoftwonumbers.exe.config
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\bin\Debug\day1swappingoftwonumbers.exe
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\bin\Debug\day1swappingoftwonumbers.pdb
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\obj\Debug\day1swappingoftwonumbers.csprojAssemblyReference.cache
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\obj\Debug\day1swappingoftwonumbers.csproj.CoreCompileInputs.cache
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\obj\Debug\day1swappingoftwonumbers.exe
+M:\visual project files\day1swappingoftwonumbers\day1swappingoftwonumbers\obj\Debug\day1swappingoftwonumbers.pdb

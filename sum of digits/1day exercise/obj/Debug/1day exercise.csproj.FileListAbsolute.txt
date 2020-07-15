@@ -1,0 +1,7 @@
+C:\Users\rohit\source\repos\sum of digits\1day exercise\bin\Debug\1day exercise.exe.config
+C:\Users\rohit\source\repos\sum of digits\1day exercise\bin\Debug\1day exercise.exe
+C:\Users\rohit\source\repos\sum of digits\1day exercise\bin\Debug\1day exercise.pdb
+C:\Users\rohit\source\repos\sum of digits\1day exercise\obj\Debug\1day exercise.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\sum of digits\1day exercise\obj\Debug\1day exercise.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\sum of digits\1day exercise\obj\Debug\1day exercise.exe
+C:\Users\rohit\source\repos\sum of digits\1day exercise\obj\Debug\1day exercise.pdb
